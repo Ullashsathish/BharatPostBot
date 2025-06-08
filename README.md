@@ -109,6 +109,6 @@ Open a pull request ✅
 ## 📬 Contact
 Have questions or ideas?
 
-Email: ullashsathish@email.com
+Email: ullashsathish@gmail.com
 
 GitHub: Ullashsathish
