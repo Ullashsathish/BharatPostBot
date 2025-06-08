@@ -4,8 +4,7 @@ Empowering Access to Indian Postal Services Through AI 🇮🇳
 BharatPostBot is an AI-powered chatbot built to provide users with accurate and fast information about India Post services. Whether you need help with Speed Post, Money Orders, PLI/RPLI schemes, or saving plans — this chatbot is designed to make postal service knowledge accessible through a friendly, interactive web interface.
 
 ## 📱 Chatbot Preview
-<p align="center"> <img src="https://raw.githubusercontent.com/Ullashsathish/BharatPostBot/main/docs/picture1.png" alt="BharatPostBot Chat Output" width="200"/> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/Ullashsathish/BharatPostBot/main/docs/picture2.png" alt="BharatPostBot Chat Output" width="200"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Ullashsathish/BharatPostBot/main/docs/picture1.png" alt="BharatPostBot Chat Output" width="400"/> </p><p align="center"> <img src="https://raw.githubusercontent.com/Ullashsathish/BharatPostBot/main/docs/picture2.png" alt="BharatPostBot Chat Output" width="400"/> </p>
 
 ## 🌟 Key Features
 ## 📌 Informational Chatbot
